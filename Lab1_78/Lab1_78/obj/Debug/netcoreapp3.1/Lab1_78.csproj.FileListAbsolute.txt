@@ -1,0 +1,42 @@
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.exe
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.deps.json
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.runtimeconfig.json
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.runtimeconfig.dev.json
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.dll
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.pdb
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.csproj.AssemblyReference.cache
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.AssemblyInfoInputs.cache
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.AssemblyInfo.cs
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.csproj.CoreCompileInputs.cache
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.dll
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.pdb
+C:\Users\voilg\source\repos\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.genruntimeconfig.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.dll
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.deps.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.runtimeconfig.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.runtimeconfig.dev.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.dll
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\bin\Debug\netcoreapp3.1\Lab1_6.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.csproj.AssemblyReference.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.AssemblyInfoInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.AssemblyInfo.cs
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.csproj.CoreCompileInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\рр\Lab1_6\Lab1_6\obj\Debug\netcoreapp3.1\Lab1_6.genruntimeconfig.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.deps.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.runtimeconfig.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.runtimeconfig.dev.json
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.dll
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\bin\Debug\netcoreapp3.1\Lab1_78.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.csproj.AssemblyReference.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.AssemblyInfoInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.AssemblyInfo.cs
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.csproj.CoreCompileInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.dll
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab1_78\Lab1_78\obj\Debug\netcoreapp3.1\Lab1_78.genruntimeconfig.cache
