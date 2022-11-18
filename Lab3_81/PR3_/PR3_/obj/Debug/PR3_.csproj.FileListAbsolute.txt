@@ -1,0 +1,16 @@
+F:\Moe\500 grn\PR3_\PR3_\obj\Debug\PR3_.csproj.AssemblyReference.cache
+F:\Moe\500 grn\PR3_\PR3_\obj\Debug\PR3_.csproj.SuggestedBindingRedirects.cache
+F:\Moe\500 grn\PR3_\PR3_\obj\Debug\PR3_.csproj.CoreCompileInputs.cache
+F:\Moe\500 grn\PR3_\PR3_\bin\Debug\PR3_.exe.config
+F:\Moe\500 grn\PR3_\PR3_\bin\Debug\PR3_.exe
+F:\Moe\500 grn\PR3_\PR3_\bin\Debug\PR3_.pdb
+F:\Moe\500 grn\PR3_\PR3_\obj\Debug\PR3_.exe
+F:\Moe\500 grn\PR3_\PR3_\obj\Debug\PR3_.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\bin\Debug\PR3_.exe.config
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\bin\Debug\PR3_.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\bin\Debug\PR3_.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\obj\Debug\PR3_.csproj.AssemblyReference.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\obj\Debug\PR3_.csproj.SuggestedBindingRedirects.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\obj\Debug\PR3_.csproj.CoreCompileInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\obj\Debug\PR3_.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab3\PR3_\PR3_\obj\Debug\PR3_.pdb
