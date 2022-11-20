@@ -1,0 +1,16 @@
+F:\Moe\500 grn\lab22\Lab2\Lab2\bin\Debug\Lab2.exe.config
+F:\Moe\500 grn\lab22\Lab2\Lab2\bin\Debug\Lab2.exe
+F:\Moe\500 grn\lab22\Lab2\Lab2\bin\Debug\Lab2.pdb
+F:\Moe\500 grn\lab22\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+F:\Moe\500 grn\lab22\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+F:\Moe\500 grn\lab22\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+F:\Moe\500 grn\lab22\Lab2\Lab2\obj\Debug\Lab2.exe
+F:\Moe\500 grn\lab22\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\max15\OneDrive\Рабочий стол\hh\Crosp_prog\Lab2_74\Lab2\Lab2\obj\Debug\Lab2.pdb
